@@ -16,7 +16,11 @@ flowchart TD;
 flowchart TD;
   W1[Web dev]-->W2[Frontend];
   W1[Web dev]-->W3[Backend];
-  
+  W2-->HTML;
+  W2-->css;
+  W2-->JavaScript;
+  W3-->W4[node js];
+  W3-->W5[django];
   style W1 fill:pink;
   style W2 fill:yellow; style W3 fill:yellow;
   
