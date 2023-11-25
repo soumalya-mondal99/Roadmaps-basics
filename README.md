@@ -19,8 +19,9 @@ flowchart TD;
   W2-->HTML;
   W2-->css;
   W2-->JavaScript;
-  W3--javascript based-->W4[node js];
-  W3--python based-->W5[django];
+  W3-->W4["node js\n <h6><br>(javascript based)"];
+  W3~~~/
+  W3-->W5["django\n <h6><br>(python based)"];
   style W1 fill:pink;
   style W2 fill:yellow; style W3 fill:yellow;
   
