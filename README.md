@@ -21,7 +21,11 @@ b. Basics of Excel
 c. Some Advanced Tools : Tableau, Power BI  
 
 **Step 4 : Learn Machine Learning**  
-How to learn ML : [ML Roadmap](https://www.youtube.com/watch?v=1vsmaEfbnoE)
+How to learn ML : [ML Roadmap](https://www.youtube.com/watch?v=1vsmaEfbnoE)  
+
+**Step 5: Build Projects**  
+Start using Kaggle : [Go to Kaggle](https://www.kaggle.com/)
+
 
 
 
