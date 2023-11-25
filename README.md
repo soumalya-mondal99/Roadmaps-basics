@@ -22,4 +22,3 @@ flowchart TD;
   style W2 fill:yellow; style W3 fill:yellow;
   style W5 fill:white,stroke:white;
 ```
-[Learn Math](https://mml-book.github.io/)
