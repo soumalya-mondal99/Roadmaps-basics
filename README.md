@@ -8,6 +8,8 @@ Step1 : [Learn Math](https://mml-book.github.io/) </h4>
 **b. Linear Algebra** (matrices, vectors, eigen values etc.)  
 **c. Calculus** (limits, continuity, dy/dx etc.)  
 **d. Probability** (distribution, bayes theorem etc.)  
+
+
 ## 2. Full stack dev
 
 ## 3. Web dev
