@@ -2,9 +2,7 @@
 Basic level learning tree of different job profile.
 
 ## 1. Data Anlyst
-<ins> Basics roadmap of data science</ins> <h4>Step1 :</h4>
-
-
+<ins> Basics roadmap of data science</ins><h4>Step1 :
 ## 2. Full stack dev
 
 ## 3. Web dev
