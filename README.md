@@ -3,7 +3,7 @@ Basic level learning tree of different job profile.
 
 ## 1. Data Anlyst
 <ins> Basics roadmap of data science</ins>
-<h4>Step1 : [Learn Math](https://mml-book.github.io/)
+<h4>Step1 : "[Learn Math]""(https://mml-book.github.io/)"
 
 ## 2. Full stack dev
 
