@@ -24,11 +24,11 @@ c. Some Advanced Tools : Tableau, Power BI
 How to learn ML : [ML Roadmap](https://www.youtube.com/watch?v=1vsmaEfbnoE)  
 
 **Step 5: Build Projects**  
-Start using Kaggle : [Go to Kaggle](https://www.kaggle.com/)
+Start using Kaggle : [Go to Kaggle](https://www.kaggle.com/)  
 
-
-
-
+**You will also need to learn tools & technologies like :**  
+a. SQL : [Free SQL Course](https://www.youtube.com/watch?v=hlGoQC332VM)  
+b. Git & Github : [Complete Git Tutorial](https://www.youtube.com/watch?v=Ez8F0nW6S-w)  
 
 ## 2. Full stack dev
 
