@@ -24,5 +24,5 @@ flowchart TD;
   W3-->W6["django\n <h6><br>(python based)"];
   style W1 fill:pink;
   style W2 fill:yellow; style W3 fill:yellow;
-  
+  style W5 fill:white,stroke:white;
 ```
