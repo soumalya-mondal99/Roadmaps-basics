@@ -10,12 +10,18 @@ Step1 : [Learn Math](https://mml-book.github.io/) </h4>
 **d. Probability** (distribution, bayes theorem etc.)  
 
 **Step2 : Learn a Language (Python / R)**  
-
 Python is recommended to learn.  
 a. Learn basics (variables, if-else conditionals, loops)  
 b. Learn numpy  
 c. Learn pandas  
+
 **Step3 : Learn Data Visualization**  
+a. Learn Matplotlib/Seaborn  
+b. Basics of Excel  
+c. Some Advanced Tools : Tableau, Power BI  
+
+
+
 
 
 
