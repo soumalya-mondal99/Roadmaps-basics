@@ -3,7 +3,7 @@ Basic level learning tree of different job profile.
 
 ## 1. Data Anlyst
 Basics roadmap of data science
-![alt text](https://github.com/[soumalya-mondal99]/[Roadmaps-basics]/blob/[branch]/Data Science Roadmap.jpg?raw=true)
+![alt text](https://github.com/[soumalya-mondal99]/[Roadmaps-basics]/blob/[main]/Data Science Roadmap.jpg?raw=true)
 
 ## 2. Full stack dev
 
