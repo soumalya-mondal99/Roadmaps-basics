@@ -9,6 +9,12 @@ Step1 : [Learn Math](https://mml-book.github.io/) </h4>
 **c. Calculus** (limits, continuity, dy/dx etc.)  
 **d. Probability** (distribution, bayes theorem etc.)  
 
+**Step2 : Learn a Language (Python / R)**  
+Python is recommended to learn.<br /> 
+  a. Learn basics (variables, if-else conditionals, loops)<br /> 
+  b. Learn numpy  
+ c. Learn pandas
+
 
 ## 2. Full stack dev
 
